@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ilyasalla18@gmail.com**
 
-- 📄 Know about my experiences [https://advportfolio.vercel.app/](https://advportfolio.vercel.app/)
+- 📄 Know more about me [https://advportfolio.vercel.app/](https://advportfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
