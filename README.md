@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilyas Alla</h1>
 <h3 align="center">A passionate IT and Cloud Tech from Morocco</h3>
 
-- 🌱 I’m currently learning **AWS Cloud Computing**
+- 🌱 I’m currently learning **AWS Cloud Computing** & **Python**
 
 - 💬 Ask me about **Openstack, Docker and Linux**
 
