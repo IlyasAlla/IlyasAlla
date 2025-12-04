@@ -7,12 +7,12 @@
 
 - 📫 How to reach me **ilyasalla18@gmail.com**
 
-- 📄 Know more about me [https://advportfolio.vercel.app/](https://advportfolio.vercel.app/)
+- 📄 Know more about me [https://portfolio-ilyasallas-projects.vercel.app/](https://portfolio-ilyasallas-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shadow9tv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadow9tv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ilyas allaoulahcen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyas allaoulahcen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ilyas-alla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyas allaoulahcen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
