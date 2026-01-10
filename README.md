@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Penetration Testing**
 
-- 💬 Ask me about **Openstack, Docker and Linux**
+- 💬 Ask me about **Linux , Python and Docker**
 
 - 📫 How to reach me **ilyasalla18@gmail.com**
 
