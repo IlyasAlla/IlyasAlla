@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilyas Alla</h1>
 <h3 align="center">A passionate IT and Cloud Tech from Morocco</h3>
 
-- 🌱 I’m currently learning **Penetration Testing**
+- 🌱 I’m currently learning **Penetration Testing** & **DevSecOps**
 
 - 💬 Ask me about **Linux , Python and Docker**
 
