@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ilyas Alla</h1>
-<h3 align="center">A passionate IT and Cloud Tech from Morocco</h3>
+<h3 align="center">A passionate Cybersecurity Engineer from Morocco</h3>
 
-- 🌱 I’m currently learning **Penetration Testing** & **DevSecOps**
+- 🌱 I’m currently learning **Computer Science** & **Cybersecurity**
 
-- 💬 Ask me about **Linux , Python and Docker**
+- 💬 Ask me about **Linux , Python and Cloud**
 
 - 📫 How to reach me **ilyasalla18@gmail.com**
 
