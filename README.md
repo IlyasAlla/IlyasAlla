@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ilyasalla18@gmail.com**
 
-- 📄 Know more about me [Website Portoflio](https://portfolio-ilyasallas-projects.vercel.app/) / [Terminal Portfolio](https://portfolio-v2-bay-six-87.vercel.app/)
+- 📄 Know more about me [Website Portoflio](https://portfolio-five-black-24.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
